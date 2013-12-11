@@ -1,7 +1,4 @@
 Spree::Order.class_eval do
-
-  attr_accessible :comment
-
   def comment
     comments.first.comment
   end
