@@ -16,7 +16,7 @@ Installation
 Add the following to your Gemfile
 
   gem 'spree_comments', :git => 'https://github.com/spree/spree_comments.git'
-  gem 'spree_user_order_comments', :git => 'https://github.com/raskhadafi/spree-user-order-comments.git'
+  gem 'spree_user_order_comments', :git => 'https://github.com/SecretAgents/spree-user-order-comments.git', :branch => '2-1-stable'
 
 Run:
 
